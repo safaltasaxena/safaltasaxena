@@ -67,8 +67,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **safaltasaxena7@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/safalta-saxena
-- 🧑‍💻 GitHub: https://github.com/yourusername
+- 💼 LinkedIn:https://www.linkedin.com/in/safalta-saxena-08892a302/
+- 🧑‍💻 GitHub: https://github.com/safaltasaxena
 
 ---
 
