@@ -20,6 +20,7 @@
 ### 💻 Programming Languages
 - **C / C++**
 - **Python**
+- **Java**
 
 ### 🧰 Developer Tools
 - VS Code  
