@@ -43,18 +43,31 @@
 
 ---
 
-## 💡 Hackathons & 🏆 Achievements
-- **Smart India Hackathon 2025 (Internal)**  
-  *Top 40 finalist among 520+ teams* – AgriTech AI project **“KrishiSathi”**
+## 🏆 Hackathon & Competitive Achievements
 
-- **Adobe India Hackathon 2025 – Round 1 Qualified**  
-  Gained hands-on experience in innovation & problem-solving
+**ICDICIT National Conference Hackathon 2026 – 🥇 1st Place (1st out of 100 teams)**  
+Built an ML- and IoT-based Automated Braille System for real-time text-to-Braille assistive accessibility.
 
-- **Thinkers Quest Hackathon – NSUT Rank 7/757**  
-  Built an innovative **AgriTech AI solution**
+**Convolve 4.0 – Pan-IIT AI/ML Hackathon – Round 1 Qualified**  
+Qualified through strong performance in logical reasoning and AI/ML fundamentals.
 
-- **Google Hackathons (Agentic & GenAI)**  
-  Worked on **AI-driven emotional support** and **Agentic AI systems**
+**LeetCode – 200+ Problems Solved (80+ Day Streak)**  
+Demonstrated strong consistency in Data Structures & Algorithms problem solving.
+
+**CodeChef – 1500+ Rating (60+ Day Streak)**  
+Consistently practiced DSA & AI/ML, showcasing competitive programming proficiency.
+
+**Smart India Hackathon 2025 (Internal)**  
+Top 40 finalist among 520+ teams – AgriTech AI project “KrishiSathi”.
+
+**Adobe India Hackathon 2025 – Round 1 Qualified**  
+Gained hands-on experience in innovation and structured problem-solving.
+
+**Thinkers Quest Hackathon – NSUT Rank 7/757**  
+Built an innovative AgriTech AI solution.
+
+**Google Hackathons (Agentic & GenAI)**  
+Worked on AI-driven emotional support systems and Agentic AI architectures.
 
 ---
 
