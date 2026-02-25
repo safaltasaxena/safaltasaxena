@@ -54,7 +54,7 @@ Qualified through strong performance in logical reasoning and AI/ML fundamentals
 **LeetCode – 200+ Problems Solved (80+ Day Streak)**  
 Demonstrated strong consistency in Data Structures & Algorithms problem solving.
 
-**CodeChef – 1500+ Rating (60+ Day Streak)**  
+**CodeChef – 1500+ Problems (60+ Day Streak)**  
 Consistently practiced DSA & AI/ML, showcasing competitive programming proficiency.
 
 **Smart India Hackathon 2025 (Internal)**  
