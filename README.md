@@ -45,7 +45,7 @@
 
 ## 🏆 Hackathon & Competitive Achievements
 
-**ICDICIT National Conference Hackathon 2026 – 🥇 1st Place (1st out of 100 teams)**  
+**ICDICIT National Conference Hackathon 2026 – 🥇 1st Place (1st out of 100+ teams)**  
 Built an ML- and IoT-based Automated Braille System for real-time text-to-Braille assistive accessibility.
 
 **Convolve 4.0 – Pan-IIT AI/ML Hackathon – Round 1 Qualified**  
